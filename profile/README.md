@@ -4,7 +4,7 @@ Our submission, Galaxy Grooves, is for the 2023 NASA Space Apps Challenge Open S
 
 # Submissions posts
 [NASA Space Apps Submission](https://www.spaceappschallenge.org/2023/find-a-team/galaxy-grooves/?tab=project)  
-[Devpost Submission](https://devpost.com/software/galaxy-grooves)
+[Devpost Submission](https://devpost.com/software/galaxy-grooves)  
 [Presentation](https://docs.google.com/presentation/d/1SPg6-Zl78Y_VnKEpcGyAI_jhWl8JhlsXFB2gYxL97AI/edit?usp=sharing)
 
 # Check us out!
