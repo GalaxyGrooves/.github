@@ -1,5 +1,14 @@
 <img width="492" alt="Screenshot 2023-10-08 at 5 36 55 AM" src="https://github.com/GalaxyGrooves/.github/assets/57195399/1f3142ee-6efd-4707-9ca9-40a8576d2321">
 
+Our submission, Galaxy Grooves, is to the 2023 NASA Space Apps Challenge Open Source Hackathon. The challenge we tackled is: Immersed in the Sounds of Space, where we aimed to represent a high dimensional dataset into an audio output.
+
+# Submissions posts
+[NASA Space Apps Submission](https://www.spaceappschallenge.org/2023/find-a-team/galaxy-grooves/?tab=project)  
+[Devpost Submission](https://devpost.com/software/galaxy-grooves)
+
+# Check us out!
+Our project is deployed live onto [Streamlit](https://galaxygrooves.streamlit.app/)
+
 ## Inspiration
 How can we "hear" heat? NASA's Wide-field Infrared Survey Explorer (WISE) generates a high dimensional infrared dataset, extending an invitation to explore the cosmos beyond the visual spectrum. Our team was motivated to tackle this sensory challenge mainly because the WISE telescope captures information using infrared wavelengths, yet we cannot visually experience infrared light. To bridge this gap, we created an algorithm that transforms infrared measurements into audio output. Using our project as an auditory lens, we hope to enrich the sensory exploration of the unknown and reveal the visual silence of infrared data by allowing the public to "hear" the warmth of the cosmos.
 
