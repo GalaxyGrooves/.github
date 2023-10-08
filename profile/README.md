@@ -1,10 +1,11 @@
 <img width="492" alt="Screenshot 2023-10-08 at 5 36 55 AM" src="https://github.com/GalaxyGrooves/.github/assets/57195399/1f3142ee-6efd-4707-9ca9-40a8576d2321">
 
-Our submission, Galaxy Grooves, is to the 2023 NASA Space Apps Challenge Open Source Hackathon. The challenge we tackled is: Immersed in the Sounds of Space, where we aimed to represent a high dimensional dataset into an audio output.
+Our submission, Galaxy Grooves, is for the 2023 NASA Space Apps Challenge Open Source Hackathon. The challenge we tackled is [Immersed in the Sounds of Space](https://www.spaceappschallenge.org/2023/challenges/immersed-in-the-sounds-of-space/), where we aimed to represent a high dimensional dataset into an audio output.
 
 # Submissions posts
 [NASA Space Apps Submission](https://www.spaceappschallenge.org/2023/find-a-team/galaxy-grooves/?tab=project)  
 [Devpost Submission](https://devpost.com/software/galaxy-grooves)
+[Presentation](https://docs.google.com/presentation/d/1SPg6-Zl78Y_VnKEpcGyAI_jhWl8JhlsXFB2gYxL97AI/edit?usp=sharing)
 
 # Check us out!
 Our project is deployed live onto [Streamlit](https://galaxygrooves.streamlit.app/)
