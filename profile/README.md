@@ -16,12 +16,16 @@ Band 4: The Volume
 We use Band 4 as the source data to determine the volume of each note. The higher the concentration of dust, the louder the note will be.
 
 ## How we built it
-We used OpenCV to extract the RGB values from the image.
+First, we used OpenCV to extract the RGB values from the image. Then, we used each infrared image to determine our note's pitch, volume, and length. We stored these values in a Numpy array as input for our audio, and finally, we used a Python library, Sounddevice to output the data.
 
 ## Challenges we ran into
+We brainstormed how to come up with the methodology to transform our infrared measurements to musical notes. We want to incorporate variety into each note, so we ultimately decided on varying the musical characteristics such as pitch, volume, and length of each note. Our team members were beginner hackers, and the NASA Space Apps Challenge was their first time participating in a hackathon, so many were new to trunk-based software development and advanced Git workflows. When we encountered Git issues, we collaborated to tackle and resolve any problems, and we all learned more about trunk-based software development.
 
 ## Accomplishments that we're proud of
+Our project, Galaxy Grooves, presents a unique and unprecedented chance for the public to observe celestial objects in a completely original manner. Since humans cannot visually observe infrared data, we hope the general public can "hear" heat for the first time and experience this auditory unveiling of infrared datasets. Furthermore, our project offers members of the visually impaired community the newfound opportunity to enjoy and listen to celestial objects. For these reasons, we believe Galaxy Grooves is an engaging way for the general public to experience this sensory journey.
 
 ## What we learned
+We learned the science behind infrared telescope measurements and found ways to convey the concept of radiation through auditory experiences. We also learned the value of open science as these images are publicly available, and everyone can see the raw data for themselves. By innovating new methods for the sonification of 3D data, we creatively applied our skills to understand and best represent note sounds to our audience.
 
 ## What's next for Galaxy Grooves
+We're excited to implement an uploading feature on our deployed project. With this new feature, our users could upload images of their own. Users may be astronomy aficionados, so they may be eager to upload personal night sky images. Galaxy Grooves is elated to see the growth of incoming users excited to explore the unknown of infrared light. 
