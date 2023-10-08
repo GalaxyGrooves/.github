@@ -1,6 +1,5 @@
 <img src="https://github.com/GalaxyGrooves/.github/assets/57195399/994f11df-c351-41c7-b2d4-08be5ad3d92e" width="200">
 
-
 ## Inspiration
 How can we "hear" heat? NASA's Wide-field Infrared Survey Explorer (WISE) generates a high dimensional infrared dataset, extending an invitation to explore the cosmos beyond the visual spectrum. Our team was motivated to tackle this sensory challenge mainly because the WISE telescope captures information using infrared wavelengths, yet we cannot visually experience infrared light. To bridge this gap, we created an algorithm that transforms infrared measurements into audio output. Using our project as an auditory lens, we hope to enrich the sensory exploration of the unknown and reveal the visual silence of infrared data by allowing the public to "hear" the warmth of the cosmos.
 
