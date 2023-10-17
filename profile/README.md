@@ -41,10 +41,4 @@ Our project, Galaxy Grooves, presents a unique and unprecedented chance for the 
 We learned the science behind infrared telescope measurements and found ways to convey the concept of radiation through auditory experiences. We also learned the value of open science as these images are publicly available, and everyone can see the raw data for themselves. By innovating new methods for the sonification of 3D data, we creatively applied our skills to understand and best represent note sounds to our audience.
 
 ## What's next for Galaxy Grooves
-We're excited to implement an uploading feature on our deployed project. With this new feature, our users could upload images of their own. Users may be astronomy aficionados, so they may be eager to upload personal night sky images. Galaxy Grooves is elated to see the growth of incoming users excited to explore the unknown of infrared light. 
-
-## What we learned
-We learned the science behind infrared telescope measurements and found ways to convey the concept of radiation through auditory experiences. We also learned the value of open science as these images are publicly available, and everyone can see the raw data for themselves. By innovating new methods for the sonification of 3D data, we creatively applied our skills to understand and best represent note sounds to our audience.
-
-## What's next for Galaxy Grooves
-We're excited to implement an uploading feature on our deployed project. With this new feature, our users could upload images of their own. Users may be astronomy aficionados, so they may be eager to upload personal night sky images. Galaxy Grooves is elated to see the growth of incoming users excited to explore the unknown of infrared light. 
+We're excited to implement an uploading feature on our deployed project. With this new feature, our users could upload images of their own. Users may be astronomy aficionados, so they may be eager to upload personal night sky images. Galaxy Grooves is elated to see the growth of incoming users excited to explore the unknown of infrared light.
